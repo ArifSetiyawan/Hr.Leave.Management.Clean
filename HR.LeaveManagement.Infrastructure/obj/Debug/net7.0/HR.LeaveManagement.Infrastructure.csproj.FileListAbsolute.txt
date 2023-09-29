@@ -1,0 +1,17 @@
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Infrastructure.deps.json
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Infrastructure.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Infrastructure.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.CopyComplete
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\refint\HR.LeaveManagement.Infrastructure.dll
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.pdb
+D:\PDSI-Source Code\Hr.Leave.Management.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\ref\HR.LeaveManagement.Infrastructure.dll
