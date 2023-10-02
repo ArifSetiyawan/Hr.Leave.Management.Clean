@@ -99,7 +99,7 @@ namespace HR.LeaveManagement.Identity.Migrations
                         {
                             Id = "8e445865-a24d-4543-a6c6-9443d048cdb9",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "4ba519d7-19dc-4def-b31d-e4e6ce47449b",
+                            ConcurrencyStamp = "d1936a9e-08fe-4605-bb3e-c15d512d48f5",
                             Email = "admin@localhost.com",
                             EmailConfirmed = true,
                             FirstName = "System",
@@ -107,9 +107,9 @@ namespace HR.LeaveManagement.Identity.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "ADMIN@LOCALHOST.COM",
                             NormalizedUserName = "ADMIN@LOCALHOST.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEOhiPDBSrgUKNdAiM8yap4ic8LYeuCnaBLgaKlZQavAxtb61KtBPeh8sO6DnMUNyYw==",
+                            PasswordHash = "AQAAAAIAAYagAAAAELpRYln8Ovh2JDg7qNH6w575NV5N2elWU/XStO/CfOwhiYCP0r/e5r5ApkqT60nrGg==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "f493ca3d-6b97-45e1-a314-ca85b61d1dbf",
+                            SecurityStamp = "a593c6c3-121d-44bd-b437-870207531cb5",
                             TwoFactorEnabled = false,
                             UserName = "admin@localhost.com"
                         },
@@ -117,7 +117,7 @@ namespace HR.LeaveManagement.Identity.Migrations
                         {
                             Id = "9e224968-33e4-4652-b7b7-8574d048cdb9",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "3059f5cd-b836-4bf9-b15a-4b9456765293",
+                            ConcurrencyStamp = "1b30e2cf-b948-415b-a4c0-42eade407860",
                             Email = "user@localhost.com",
                             EmailConfirmed = true,
                             FirstName = "System",
@@ -125,9 +125,9 @@ namespace HR.LeaveManagement.Identity.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "USER@LOCALHOST.COM",
                             NormalizedUserName = "USER@LOCALHOST.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEK2aOzPsOtzLUxTKrJDMlkEUIA5n4TlpQe52DuN2PAbhPbsABQ4YL+yMVJiVouTLsw==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEG9PjaHsNt8XVGEeLMLLa5O+16Rb4MedksJOAmLjNm8wkiWijhjfNYJHUx87GSiA8g==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "b91a95d7-47af-40be-8dac-7a6e021610ab",
+                            SecurityStamp = "2bc93eb5-6a43-4ce5-9d17-0601f938ddce",
                             TwoFactorEnabled = false,
                             UserName = "user@localhost.com"
                         });

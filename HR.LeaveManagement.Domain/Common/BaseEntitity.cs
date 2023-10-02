@@ -9,7 +9,7 @@ namespace HR.LeaveManagement.Domain.Common
     public class BaseEntitity
     {
         public int Id { get; set; }
-        public DateTime DateCreated { get; set; }
-        public DateTime DateModified { get; set; }
+        public DateTime? DateCreated { get; set; }
+        public DateTime? DateModified { get; set; }
     }
 }

@@ -41,6 +41,8 @@ namespace HR.LeaveManagement.BlazorUI.Pages.LeaveTypes
             if (response.Success)
             {
                 StateHasChanged();
+                NavigationManager.NavigateTo("/leavetypes/");
+
             }
             else
             {

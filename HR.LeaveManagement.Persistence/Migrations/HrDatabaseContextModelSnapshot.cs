@@ -30,10 +30,10 @@ namespace HR.LeaveManagement.Persistence.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("DateCreated")
+                    b.Property<DateTime?>("DateCreated")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("DateModified")
+                    b.Property<DateTime?>("DateModified")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("EmployeeId")
@@ -70,10 +70,10 @@ namespace HR.LeaveManagement.Persistence.Migrations
                     b.Property<bool?>("Cancelled")
                         .HasColumnType("bit");
 
-                    b.Property<DateTime>("DateCreated")
+                    b.Property<DateTime?>("DateCreated")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("DateModified")
+                    b.Property<DateTime?>("DateModified")
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime>("DateRequested")
@@ -110,10 +110,10 @@ namespace HR.LeaveManagement.Persistence.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime>("DateCreated")
+                    b.Property<DateTime?>("DateCreated")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("DateModified")
+                    b.Property<DateTime?>("DateModified")
                         .HasColumnType("datetime2");
 
                     b.Property<int>("DefaultDays")
@@ -132,8 +132,8 @@ namespace HR.LeaveManagement.Persistence.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2023, 9, 26, 14, 54, 24, 238, DateTimeKind.Local).AddTicks(3858),
-                            DateModified = new DateTime(2023, 9, 26, 14, 54, 24, 238, DateTimeKind.Local).AddTicks(3882),
+                            DateCreated = new DateTime(2023, 10, 2, 11, 44, 26, 443, DateTimeKind.Local).AddTicks(1072),
+                            DateModified = new DateTime(2023, 10, 2, 11, 44, 26, 443, DateTimeKind.Local).AddTicks(1086),
                             DefaultDays = 10,
                             Name = "Staycation"
                         });

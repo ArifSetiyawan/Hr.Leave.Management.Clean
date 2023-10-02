@@ -19,9 +19,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Features\LeaveAllocation\Command\CreateLeaveAllocation\" />
 	  <Folder Include="Features\LeaveAllocation\Command\DeleteLeaveAllocation\" />
-	  <Folder Include="Features\LeaveAllocation\Command\UpdateLeaveAllocation\" />
 	  <Folder Include="Features\LeaveAllocation\Queries\GetAllLeaveAllocations\" />
 	  <Folder Include="Features\LeaveAllocation\Queries\GetLeaveAllocationsDetails\" />
 	  <Folder Include="Features\LeaveRequest\Command\CreateLeaveRequest\" />

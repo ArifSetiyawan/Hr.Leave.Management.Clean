@@ -15,9 +15,10 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.UpdateLeave
 
         public UpdateLeaveTypeCommandValidator(ILeaveTypeRepository leaveTypeRepository)
         {
-            //RuleFor(p => p.Id)
-            //    .NotNull()
-            //    .MustAsync(LeaveTypeMustExists);
+            RuleFor(p => p.Id)
+                .NotNull()
+                .MustAsync(LeaveTypeMustExists);
+
             RuleFor(p => p.Name)
                  .NotEmpty().WithMessage("{PropertyName} is Required")
                  .NotNull()
